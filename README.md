@@ -1,5 +1,5 @@
 # MKS-Robin-Nano-V3.X
-Robin nano V3 is an upgraded version of [Robin Nano V2.0](https://github.com/makerbase-mks/MKS-Robin-Nano-V2.X). The upgrade changes are quite large, including upgrading the MCU to the M4 core, and adding support for U disks.
+Robin nano V3 is an upgraded version of [Robin Nano V2.0](https://github.com/makerbase-mks/MKS-Robin-Nano-V2.X). The upgrade changes are quite large, including upgrading the MCU to the M4 core, and adding support for USB disk.
 
 ## Compare between Robin Nano V2.0 and V3.0
 | ITEMS      |  Robin Nano V2.0  | Robin Nano V3.0 |
@@ -29,6 +29,6 @@ The hardware design is openned source on : https://github.com/makerbase-mks/MKS-
 ## Firmware
 The same as the Robin Nano V2.0, firmware of MKS Robin Nano V3.0 is also based on Marlin 2.X. Actually, we directly use the same respository:https://github.com/makerbase-mks/Mks-Robin-Nano-Marlin2.0-Firmware. Just modify the type of motherboard to compile the related firmware.
 
-### How to build
+
 
 
