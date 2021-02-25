@@ -17,8 +17,8 @@ Robin nano V3 is an upgraded version of [Robin Nano V2.0](https://github.com/mak
 | Power TVS protect |	No | Yes |
 | Expansion SD slot | Support | Not support |
 | MAX31855 interface | Support | Not support |
-| EEPROM | *4KB AT24C32DM*	| *4KB AT24C32DM*	 |
-| SPI Flash | *8M W25Q64JVSIQ*	| *8M W25Q64JVSIQ*	|
+| EEPROM | *4KB*	| *4KB*	 |
+| SPI Flash | *8M*	| *8M*	|
 | LCD support | *MKS TS35/MKS H43\*/LCD12864/LCD2004* |*MKS TS35/MKS H43/LCD12864/LCD2004* |
 
 *Note: As MKS Robin Nano V2.0 doesn't has an independent serial port, so if using with the MKS H43, V2.0 cannot work with Wifi module, but V3.0 can make it.
