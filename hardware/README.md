@@ -19,12 +19,14 @@ Include :
 	- MKS Robin Nano V3.0_002 PIN.pdf
 	
 Change from 001 version:
+
     - Add 'H-BED', 'HE0', 'HE1' TTL signal to Header 2X1
+	
 	- 3D TOUCH interface add protection circuit
+	
     - Fix E0 axis silkscreen
 	
 ## MKS Robin Nano V3.0_003
-Fix FAN pin map Silk screen
 Include :
 
     - MKS Robin Nano V3.0_003 SCH.pdf
@@ -34,5 +36,7 @@ Include :
 	- MKS Robin Nano V3.0_003 PIN.pdf
 
 Change from 002 version:
+
     - Fix FAN1(Use PC14) and FAN2(Use PB1) silkscreen in the PCB
+	
 	- Fix FAN1(Use PC14) and FAN2(Use PB1) net in the SCH
