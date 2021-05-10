@@ -40,3 +40,18 @@ Change from 002 version:
     - Fix FAN1(Use PC14) and FAN2(Use PB1) silkscreen in the PCB
 	
 	- Fix FAN1(Use PC14) and FAN2(Use PB1) net in the SCH
+	
+## MKS Robin Nano V3.0_004
+Include :
+
+    - MKS Robin Nano V3.0_004 SCH.pdf
+	- MKS Robin Nano V3.0_004 TOP.pdf
+	- MKS Robin Nano V3.0_004 BOTTOM.pdf
+	- MKS Robin Nano V3.0_004 SIZE.pdf
+	- MKS Robin Nano V3.0_004 PIN.pdf
+	
+Change from 003 version:
+
+    - D12 use a more powerful TVS: SMBJ28A
+	
+	- Z3,Z6 NC
