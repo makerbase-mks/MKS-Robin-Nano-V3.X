@@ -1,6 +1,10 @@
 # MKS-Robin-Nano-V3.X
 Robin nano V3 is an upgraded version of [Robin Nano V2.0](https://github.com/makerbase-mks/MKS-Robin-Nano-V2.X). The upgrade changes are quite large, including upgrading the MCU to the M4 core, and adding support for USB disk.
 
+## Related tutorials and Notice
+- User Manual.[click here](https://github.com/makerbase-mks/MKS-Robin-Nano-V3.X/wiki)
+- Welcome to follow us on Facebook to learn about the company's latest developments.[click here](https://www.facebook.com/Makerbase.mks/)
+
 ## Compare between Robin Nano V2.0 and V3.0
 | ITEMS      |  Robin Nano V2.0  | Robin Nano V3.0 |
 |------------|--------------------|--------------------|
