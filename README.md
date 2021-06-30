@@ -31,7 +31,9 @@ Robin nano V3 is an upgraded version of [Robin Nano V2.0](https://github.com/mak
 The hardware design is openned source on : https://github.com/makerbase-mks/MKS-Robin-Nano-V3.X/tree/main/hardware
 
 ## Firmware
-The same as the Robin Nano V2.0, firmware of MKS Robin Nano V3.0 is also based on Marlin 2.X. Actually, we directly use the same respository:https://github.com/makerbase-mks/Mks-Robin-Nano-Marlin2.0-Firmware. Just modify the type of motherboard to compile the related firmware.
+The factory firmware of Nano V3 is based on Marlin 2.x, actually, we directly use the same respository of Nano V1.2/2.0:https://github.com/makerbase-mks/Mks-Robin-Nano-Marlin2.0-Firmware. Just modify the type of motherboard to compile the related firmware.
+
+Now Nano V3 also supports RepRapFirmware (RRF). For details, please refer to:https://github.com/makerbase-mks/RepRapFirmware-for-MKS-Boards
 
 
 
