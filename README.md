@@ -35,6 +35,8 @@ The factory firmware of Nano V3 is based on Marlin 2.x, actually, we directly us
 
 Now Nano V3 also supports RepRapFirmware (RRF). For details, please refer to:https://github.com/makerbase-mks/RepRapFirmware-for-MKS-Boards
 
+Nano V3 has supported klipper firmware. For details, please refer to:https://github.com/makerbase-mks/Klipper-for-MKS-Boards
+
 
 
 
