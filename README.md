@@ -24,6 +24,7 @@ Robin nano V3 is an upgraded version of [Robin Nano V2.0](https://github.com/mak
 | EEPROM | *4KB*	| *4KB*	 |
 | SPI Flash | *8M*	| *8M*	|
 | LCD support | *MKS TS35/MKS H43/MKS MINI12864 V3/LCD12864/LCD2004* |*MKS TS35/MKS H43/MKS MINI12864 V3/LCD12864/LCD2004* |
+| Firmware | Marlin 2.0.x, Klipper | Marlin 2.0.x, Klipper, Reprap firmware(MKS version) |
 
 *Note: As MKS Robin Nano V2.0 doesn't has an independent serial port, so if using with the MKS H43, V2.0 cannot work with Wifi module, but V3.0 can make it.
 
